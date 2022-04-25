@@ -5,7 +5,6 @@ this an encoding and decoding program that takes in input from a user and encryt
 Author
 =======
 ### Contributors
->>>>>>> f677b442d172d4e2f15f3a98e8ffb8dd9ed71ce3
 Isabel Karimi
 
 Set up instructions
