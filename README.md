@@ -1,4 +1,4 @@
-CaesarCipher
+Caesar Cipher
 this an encoding and decoding program that takes in input from a user and encryts the inputed text.
 
 Author
@@ -16,7 +16,8 @@ Bugs
 no bugs experienced
 
 BDD
-On the user keying in a string a shift will be given to us, with respect to each letter in the string, which will be applied to encrypt our message. This means that any letter x is equal to (x + 2), where 2 is the shift number and x is a character. Decryption is the vice versa of encription.
+On the user keying in a string a shift will be given to us, with respect to each letter in the string, which will be applied to encrypt our message. This means that any letter x is equal to (x + 2), where 2 is the shift number and x is a character. Decoding is the vice versa of encoding where an example includes:
+If a string "ab" is keyed in the encription output will be "cd". On decoding "cd" the output will be "ab"
 
 
 Tech used
