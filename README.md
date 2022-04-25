@@ -1,7 +1,6 @@
 CaesarCipher
 this an encoding and decoding program that takes in input from a user and encryts the inputed text.
 
-<<<<<<< HEAD
 Author
 =======
 ### Contributors
@@ -20,7 +19,7 @@ Tech used
 *Java *Git *IntelliJ to write the code *Gradle to test our project *
 
 Contact Info
-Contact me via +254740902027 or sheilabernicew@gmail.com
+Contact me via +254713421711 or isabelkarimi7@gmail.com
 
 LICENSE
 MIT License
