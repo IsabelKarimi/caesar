@@ -6,9 +6,8 @@ Author
 ### Contributors
 Isabel Karimi
 
-Set up instructions
+###Set up instructions
 *install java *install gradle *install a java software development kit
-
 once you have all this ,clone my repo and open it in your ideal editor in my case i was using intellij.
 navigate to the /build/classes/main directory that contains our compiled code
 launch the app using "java App"
