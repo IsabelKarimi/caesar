@@ -3,7 +3,7 @@ this an encoding and decoding program that takes in input from a user and encryt
 
 Author
 =======
-### Contributors
+Contributors
 Isabel Karimi
 
 ###Set up instructions
