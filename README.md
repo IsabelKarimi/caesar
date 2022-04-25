@@ -15,6 +15,10 @@ launch the app using "java App"
 Bugs
 no bugs experienced
 
+BDD
+On the user keying in a string a shift will be given to us, with respect to each letter in the string, which will be applied to encrypt our message. This means that any letter x is equal to (x + 2), where 2 is the shift number and x is a character. Decryption is the vice versa of encription.
+
+
 Tech used
 *Java *Git *IntelliJ to write the code *Gradle to test our project *
 
