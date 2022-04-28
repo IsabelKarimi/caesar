@@ -47,15 +47,5 @@ public class CaesarCipherTest{
 
 
 
-    @Test
-    public void newCaesarCipher_encryptAStringUsingAKey_ab(){
-        CaesarCipher testCaesarCipher = new CaesarCipher("yz",2);
-        assertEquals("ab",testCaesarCipher.isActuallyEncrypted("yz",2));
-    }
 
-    @Test
-    public void newCaesarCipher_decryptAStringUsingAKey_yz(){
-        CaesarCipher testCaesarCipher = new CaesarCipher("ab",2);
-        assertEquals("yz",testCaesarCipher.toDecrypt("ab",2));
-    }
 }
