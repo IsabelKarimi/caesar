@@ -45,6 +45,11 @@ public class CaesarCipherTest{
         assertEquals("abc",testCaesarCipher.toDecrypt("cde",2));
     }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 8b72060b7526b412b46fbaabe1bcd9c0327aa287
     @Test
     public void newCaesarCipher_encryptAStringUsingAKey_ab(){
         CaesarCipher testCaesarCipher = new CaesarCipher("yz",2);
@@ -56,7 +61,10 @@ public class CaesarCipherTest{
         CaesarCipher testCaesarCipher = new CaesarCipher("ab",2);
         assertEquals("yz",testCaesarCipher.toDecrypt("ab",2));
     }
+<<<<<<< HEAD
 }
 
 
+=======
+>>>>>>> 8b72060b7526b412b46fbaabe1bcd9c0327aa287
 }

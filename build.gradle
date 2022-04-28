@@ -22,7 +22,11 @@ tasks.withType(JavaCompile) {
 }
 
 dependencies {
+<<<<<<< HEAD
     implementation 'junit:junit:4.13.2'
+=======
+    implementation 'junit:junit:4.13.1'
+>>>>>>> 8b72060b7526b412b46fbaabe1bcd9c0327aa287
     compileOnly('javax:javaee-api:8.0.1')
 
 
